@@ -25,18 +25,16 @@ ATS Resume Checker is a Streamlit-based web application designed to evaluate res
 - **HTML/CSS**: For custom styling in Streamlit.
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ats-resume-checker.git
+1. git clone https://github.com/your-username/ats-resume-checker.git
    cd ats-resume-checker
 
 
-python -m venv venv
+2. python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-pip install -r requirements.txt
+3. pip install -r requirements.txt
 
 
-GOOGLE_API_KEY=your-google-api-key
+4. GOOGLE_API_KEY=your-google-api-key
 
-streamlit run app.py
+5. streamlit run app.py
